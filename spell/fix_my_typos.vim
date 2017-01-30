@@ -4,3 +4,4 @@ if !exists(":Abolish")
 endif
 
 Abolish -buffer pytohn python
+Abolish -buffer functoin function
